@@ -12,7 +12,7 @@
 
 ```shell
 git clone https://github.com/QiangMouRen/foreach_download_bilibili_image.git
-# 如果为安装git 请执行 yum install git -y
+# 如果未安装git 请执行 yum install git -y
 cd foreach_download_bilibili_image
 php get.php
 ```
