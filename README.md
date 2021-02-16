@@ -11,9 +11,9 @@
 命令行下执行以下命令 
 
 ```shell
-git clone https://github.com/QiangMouRen/foreach_download_bilibili_image.git
+git clone https://github.com/qiangmouren/download-bilibili-images.git
 # 如果未安装git 请执行 yum install git -y
-cd foreach_download_bilibili_image
+cd download-bilibili-images
 php get.php
 ```
 
